@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Orders
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ OnlineStore\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=OrderID\ TotalAmount\ Address
+comment1.target=Orders(java.lang.String,\ double,\ java.lang.String)
+comment10.params=
+comment10.target=java.lang.String\ getType()
+comment11.params=
+comment11.target=void\ displayOrderInformation()
+comment2.params=
+comment2.target=double\ getStandardShippingCosts()
+comment3.params=
+comment3.target=java.lang.String\ getOrderID()
+comment4.params=
+comment4.target=double\ getTotalAmount()
+comment5.params=
+comment5.target=java.lang.String\ getAddress()
+comment6.params=OrderID
+comment6.target=void\ setOrderID(java.lang.String)
+comment7.params=TotalAmount
+comment7.target=void\ setTotalAmount(double)
+comment8.params=CurrentAddress
+comment8.target=void\ setAddress(java.lang.String)
+comment9.params=
+comment9.target=double\ CalculateShipping()
+numComments=12

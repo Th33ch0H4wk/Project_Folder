@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=OnlineStore
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=orders
+comment2.target=double\ calculateTotalShippingCosts(Orders[])
+numComments=3
